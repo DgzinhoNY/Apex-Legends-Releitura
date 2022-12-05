@@ -2,5 +2,5 @@
 
 <p>Releitura do site referente ao jogo APEX LEGENDS</p>
 
-<div style="background-color:red"></div>
+<div style="background-color:red">Olá</div>
 
